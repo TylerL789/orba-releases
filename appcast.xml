@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Orba</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Tue, 15 Sep 2026 10:00:29 +0700</pubDate>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/TylerL789/orba-releases/releases/download/v2.0.0/Orba-2.0.0.zip" length="3897650" type="application/octet-stream" sparkle:edSignature="URV7YTSFwelorhc3/MAcURmGip6gGHx/h00daqAkvSDKt3GGv9AlMbokVtKKDW7VrtnrI5TLpxxxiYtqpzKxCA=="/>
+        </item>
+    </channel>
+</rss>

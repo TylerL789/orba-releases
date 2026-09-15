@@ -3,13 +3,25 @@
     <channel>
         <title>Orba</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Tue, 15 Sep 2026 10:37:56 +0700</pubDate>
+            <sparkle:version>201</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/TylerL789/orba-releases/releases/download/v2.0.1/Orba-2.0.1.zip" length="3900608" type="application/octet-stream" sparkle:edSignature="wiX9UrI/DXauxGtX72hzMvp0r1rCyr8sYicP6W7fkcwh8X4RER78FzRlA6FUufpLw/TN8OlnmTj3cpUXbKc1Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/TylerL789/orba-releases/releases/download/v2.0.1/Orba201-200.delta" sparkle:deltaFrom="200" length="210646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1XXzh8vg4NzAw+RD4vDX5RezV754pQIB8sFZs7akCyEANBWBLDOKafW2n+3bfESbLOXXY0bCn6eL4ZaKZOnRBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Tue, 15 Sep 2026 10:00:29 +0700</pubDate>
             <sparkle:version>200</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/TylerL789/orba-releases/releases/download/v2.0.0/Orba-2.0.0.zip" length="3897650" type="application/octet-stream" sparkle:edSignature="URV7YTSFwelorhc3/MAcURmGip6gGHx/h00daqAkvSDKt3GGv9AlMbokVtKKDW7VrtnrI5TLpxxxiYtqpzKxCA=="/>
+            <enclosure url="https://github.com/TylerL789/orba-releases/releases/download/v2.0.1/Orba-2.0.0.zip" length="3897650" type="application/octet-stream" sparkle:edSignature="URV7YTSFwelorhc3/MAcURmGip6gGHx/h00daqAkvSDKt3GGv9AlMbokVtKKDW7VrtnrI5TLpxxxiYtqpzKxCA=="/>
         </item>
     </channel>
 </rss>
